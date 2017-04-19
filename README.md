@@ -6,4 +6,4 @@
 ## Bluetooth  
 *  ###### Objective-C
    *  ### [iBeacon][beacon]
-[beacon]:https://github.com/ZihCiLai/iBeacion/
+[beacon]:https://github.com/ZihCiLai/iBeacon/
