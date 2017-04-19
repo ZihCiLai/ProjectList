@@ -1,8 +1,7 @@
 ## PhotosView  
-swift
 ### [圖片閱覽][photoView]
 [photoView]:https://github.com/ZihCiLai/PhotosView/
-###### Swift
+Swift
 ***
 ## Bluetooth  
 ###### Objective-C
