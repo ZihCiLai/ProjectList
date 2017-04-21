@@ -2,6 +2,10 @@
 *  ###### Swift
    *  ####  [圖片閱覽][photoView]
 [photoView]:https://github.com/ZihCiLai/PhotosView/
+### Net  
+*  ###### Swift
+   *  ####  [RSS 新聞][xml]
+[xml]:https://github.com/ZihCiLai/parseXML/
 ***
 ### Bluetooth  
 *  ###### Objective-C
