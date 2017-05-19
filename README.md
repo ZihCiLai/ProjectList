@@ -4,7 +4,8 @@
 [photoView]:https://github.com/ZihCiLai/PhotosView/
 ### NetWorks  
 *  ###### Swift
-   *  ####  [XML-RSS 新聞][xml]  |  [REST API Sign In with LinkedIn][Linkedin]
+   *  ####  [XML-RSS 新聞][xml]:XMLParser、Reachability  
+   *  ####  [REST API Sign In with LinkedIn][Linkedin]  
 [xml]:https://github.com/ZihCiLai/parseXML/
 [Linkedin]:https://github.com/ZihCiLai/Linkedin
 ***
