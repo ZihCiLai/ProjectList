@@ -1,9 +1,8 @@
-### PhotosView  
 *  ###### Swift
+### PhotosView  
    *  ####  [圖片閱覽][photoView]
 [photoView]:https://github.com/ZihCiLai/PhotosView/
 ### NetWorks  
-*  ###### Swift
 *  ####  [XML-RSS 新聞][xml]:XMLParser、Reachability  
 *  ####  [REST API Sign In with LinkedIn][Linkedin]  
 [xml]:https://github.com/ZihCiLai/parseXML/
