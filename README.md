@@ -5,7 +5,7 @@
 [photoView]:https://github.com/ZihCiLai/PhotosView/
 *  #### NetWorks  
 #####  [XML-RSS 新聞][xml]:XMLParser、Reachability  
-#####  [REST API Sign In with LinkedIn][Linkedin]  
+#####  [REST API Sign In with LinkedIn][Linkedin]:URLSession  
 [xml]:https://github.com/ZihCiLai/parseXML/
 [Linkedin]:https://github.com/ZihCiLai/Linkedin
 ***
