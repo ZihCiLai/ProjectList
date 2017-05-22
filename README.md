@@ -1,7 +1,7 @@
 ## ProjectList
 ### Swift
 *  #### PhotosView  
-#####  [圖片閱覽][photoView]:Sandbox、QuartzCore、
+#####  [圖片閱覽][photoView]:Sandbox、QuartzCore
 [photoView]:https://github.com/ZihCiLai/PhotosView/
 *  #### NetWorks  
 #####  [XML-RSS 新聞][xml]:XMLParser、Reachability  
