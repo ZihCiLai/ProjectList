@@ -4,8 +4,10 @@
 #####  [圖片閱覽][photoView]:Sandbox、QuartzCore
 [photoView]:https://github.com/ZihCiLai/PhotosView/
 *  #### NetWorks  
+#####  [Notification][notif]:OneSignal 
 #####  [XML-RSS 新聞][xml]:XMLParser、Reachability  
 #####  [REST API Sign In with LinkedIn][Linkedin]:URLSession  
+[notif]:https://github.com/ZihCiLai/OneSignal/
 [xml]:https://github.com/ZihCiLai/parseXML/
 [Linkedin]:https://github.com/ZihCiLai/Linkedin
 ***
