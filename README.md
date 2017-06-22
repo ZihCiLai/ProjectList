@@ -1,8 +1,5 @@
 ## ProjectList
 ### Swift
-*  #### PhotosView  
-#####  [圖片閱覽][photoView]:Sandbox、QuartzCore
-[photoView]:https://github.com/ZihCiLai/PhotosView/
 *  #### NetWorks  
 #####  [OneSignal Notification][notif]:OneSignal 
 #####  [XML-RSS 新聞][xml]:XMLParser、Reachability  
@@ -10,6 +7,9 @@
 [notif]:https://github.com/ZihCiLai/OneSignal/
 [xml]:https://github.com/ZihCiLai/parseXML/
 [Linkedin]:https://github.com/ZihCiLai/Linkedin
+*  #### PhotosView  
+#####  [圖片閱覽][photoView]:Sandbox、QuartzCore
+[photoView]:https://github.com/ZihCiLai/PhotosView/
 ***
 
 ### Objective-C
